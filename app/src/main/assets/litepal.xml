@@ -1,0 +1,11 @@
+<litepal>
+    <dbname value="sunny_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.sunnywetaher.android.db.Province"/>
+        <mapping class="com.sunnyweather.android.db.City"/>
+        <mapping class="com.sunnyweather.android.db.County"/>
+    </list>
+</litepal>
